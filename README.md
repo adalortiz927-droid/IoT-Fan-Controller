@@ -14,3 +14,17 @@ This project is an IoT system built on ESP32 that controls fan speed based on te
 - MOSFET IRLZ44N
 - SSD1306 OLED Display
 - DHT11 Sensor
+
+## Images
+
+### System Setup
+![System Setup](system_setup.jpeg)
+
+### Circuit Schematic
+![Schematic](schematic.pdf)
+
+### OLED Display Output
+![OLED Display](oled_display.jpeg)
+
+### Web Dashboard
+![Web Dashboard](web_dashboard.png)
