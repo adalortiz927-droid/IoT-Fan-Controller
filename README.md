@@ -21,7 +21,7 @@ This project is an IoT system built on ESP32 that controls fan speed based on te
 ![System Setup](system_setup.jpeg)
 
 ### Circuit Schematic
-![Schematic](schematic.pdf)
+![Schematic](schematic.png)
 
 ### OLED Display Output
 ![OLED Display](oled_display.jpeg)
